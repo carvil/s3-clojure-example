@@ -2,6 +2,8 @@
 
 An example of how to read files from S3 in Clojure.
 
+[![Build Status](https://travis-ci.org/carvil/s3-clojure-example.png)](https://travis-ci.org/carvil/s3-clojure-example)
+
 ## Usage
 
 First, install the dependencies:
