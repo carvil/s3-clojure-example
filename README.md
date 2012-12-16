@@ -10,7 +10,7 @@ First, install the dependencies:
 
 Then, create a YAML file containing your S3 credentials:
 
-    cp config/s3.example.yml config/s3.config
+    cp config/s3.example.yml config/s3.yml
 
 And change the contents of the file accordingly. It is assumed you have a file
 in the specified S3 bucket.
